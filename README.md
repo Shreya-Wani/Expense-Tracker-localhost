@@ -10,12 +10,6 @@ A minimal and aesthetic expense tracker built using **HTML**, **CSS**, and **Jav
 * Data is saved using **localStorage**
 * Clean dark UI with soft hover animations
 
-### 📸 Screenshots
-
-```
-![App Screenshot](./img.png)
-```
-
 ### 🛠️ Tech Stack
 
 * HTML5
